@@ -1,6 +1,6 @@
- Git commands for new users:
- 
- 1. **Initialize a New Git Repository**: Start tracking changes in a new or existing project.
+Git commands for new users:
+
+1. **Initialize a New Git Repository**: Start tracking changes in a new or existing project.
    ```
    git init
    ```
@@ -20,7 +20,7 @@
    git add <file_name>      # Stage a specific file
    git add .               # Stage all changes
    ```
-   
+
 5. **Configure Git**: Set your name and email for Git commits.
     ```
     git config --global user.name "Your Name"
