@@ -1,6 +1,6 @@
-Certainly! Here are some basic Git commands for new users:
-
-1. **Initialize a New Git Repository**: Start tracking changes in a new or existing project.
+ Git commands for new users:
+ 
+ 1. **Initialize a New Git Repository**: Start tracking changes in a new or existing project.
    ```
    git init
    ```
