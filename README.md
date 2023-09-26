@@ -1,4 +1,4 @@
-Git commands for new users:
+Git commands for kavya :
 
 1. **Initialize a New Git Repository**: Start tracking changes in a new or existing project.
 
